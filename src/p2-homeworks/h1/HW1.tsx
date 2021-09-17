@@ -13,7 +13,7 @@ function HW1() {
     return (
         <div>
             <hr/>
-            homeworks 1
+            --- Homeworks 1 ---
             <hr/>
             <Message
                 avatar={messageData.avatar}
@@ -21,7 +21,6 @@ function HW1() {
                 message={messageData.message}
                 time={messageData.time}
             />
-            <hr/>
             <hr/>
         </div>
     )
